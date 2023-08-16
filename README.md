@@ -120,3 +120,9 @@ aws athena create-data-catalog \
     --description "Minio connector" \
     --parameters function= < lambda function arn >
 ``` 
+
+
+## License
+
+This project is under Apache License 2.0.
+Copyright 2023 Proximie 
